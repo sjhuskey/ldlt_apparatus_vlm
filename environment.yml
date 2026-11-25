@@ -1,0 +1,15 @@
+name: appcrit
+channels:
+  - defaults
+  - conda-pypi
+dependencies:
+  - python=3.13
+  - lxml
+  - pandas
+  - ipykernel
+  - python-dotenv
+  - openai
+  - requests
+  - jiwer
+  - jsonschema
+  - pytest
