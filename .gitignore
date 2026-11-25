@@ -1,1 +1,10 @@
+# OS-generated files
 .DS_Store
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Specific files
+docs/notes.md
