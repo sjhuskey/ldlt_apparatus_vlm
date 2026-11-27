@@ -512,7 +512,7 @@
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
         "source_page": 5,
         "source_image": "pdf-page-42",
-        "transcription": "<ab>3.  <hi rend=\"italic\">om. </hi> κχ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">om. </hi> κχ.</ab>",
         "comments": null,
         "transcriber": "SJH",
         "extraction": {
@@ -1016,7 +1016,7 @@
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
         "source_page": 5,
         "source_image": "pdf-page-42",
-        "transcription": "<ab><hi rend=\"italic\">molle sub</hi> P V edd., <hi rend=\"italic\">molliter</hi> N G A H Glaeser Keene Jacoby (Woch. f. kl. Phi. III p. 1290), <hi rend=\"italic\">molle per</hi> Schenkl<hi rend=\"superscript\">2</hi>.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">molle sub</hi> P V edd., <hi rend=\"italic\">molliter</hi> N G A H Glaeser Keene Jacoby (Woch. f. kl. Phil. III p. 1290), <hi rend=\"italic\">molle per</hi> Schenkl<hi rend=\"superscript\">2</hi>.</ab>",
         "comments": null,
         "transcriber": "SJH",
         "extraction": {
@@ -2370,7 +2370,7 @@
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
         "source_page": 5,
         "source_image": "pdf-page-42",
-        "transcription": "<ab><hi rend=\"italic\">ubi</hi>] G (<hi rend=\"italic\">et</hi> in mg.).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">ubi</hi>] ut G (<hi rend=\"italic\">et</hi> in mg.).</ab>",
         "comments": null,
         "transcriber": "SJH",
         "extraction": {
